@@ -23,8 +23,7 @@ osc commands are:
 /pause
 ```
 
-python3.9
-dependencies:
+python3.9 - Dependencies:
 ```
 mpv
 pythonosc
